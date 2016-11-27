@@ -1,0 +1,8 @@
+{
+    "name": "test_backbonejs",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "ryo",
+    "contributors": [],
+    "dependencies": {}
+}
